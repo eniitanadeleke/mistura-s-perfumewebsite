@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(183, 123, 222);
+}
+
+header {
+    color: rgb(221, 196, 255);
+     background-color: rgb(119, 43, 226);
+     border-radius: 5px;
+}
+
+h1 {
+    font-size: large;
+}

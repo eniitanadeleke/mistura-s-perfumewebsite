@@ -1,0 +1,24 @@
+header {
+    background-color: antiquewhite;
+    justify-content: center;
+}
+header, h1, h2
+{
+    color: rgb(200, 0, 255);
+    font-style: italic;
+    font-weight: bold;
+}
+
+ img {
+   width: 20%;
+   display: flexbox;
+}
+
+body {
+    background-color: rgba(243, 133, 133, 0.098);
+}
+
+nav, a {
+    display:  flexbox;
+    justify-content: space-evenly;
+}
